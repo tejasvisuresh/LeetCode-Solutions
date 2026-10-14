@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0233-number-of-digit-one](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0322-coin-change](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0233-number-of-digit-one](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
