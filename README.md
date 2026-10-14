@@ -31,9 +31,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0342-power-of-four) |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
