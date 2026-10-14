@@ -4,14 +4,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
