@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0231-power-of-two) |
 ## Algorithm X
 |  |
 | ------- |
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
