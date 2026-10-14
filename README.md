@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0518-coin-change-ii](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 ## Math
 |  |
 | ------- |
@@ -106,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0047-permutations-ii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/tejasvisuresh/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
